@@ -1,0 +1,6 @@
+path: C:\Users\crazy\OneDrive\Desktop\Coding\Projects\HackAI\POPYolo
+train: images/train
+val: images/val
+
+nc: 1
+names: ['person']
